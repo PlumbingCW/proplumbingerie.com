@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proplumbingerie.com/sitemap.xml
